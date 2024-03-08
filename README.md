@@ -1,10 +1,28 @@
 ---
-description: Exploring Effective UI/UX Strategies
+description: Exploring Effective UI/UX Ideas
 ---
 
 # Voice Assistant Interface Design Examples
 
-## **Example Screenshots and Descriptions**
+## **Design Examples on** [**Figma**](https://www.figma.com/community)
+
+{% embed url="https://www.figma.com/file/31md8clR20FJ6k7qh3NirE/Chatbot_AI-(Community)?type=design&node-id=0-1&mode=design&t=Y64d7CkxRi5W8yaJ-0" %}
+By [Jaxit Chavda](https://www.figma.com/@Jecky)
+{% endembed %}
+
+<figure><img src=".gitbook/assets/Screen Shot 2024-03-08 at 09.01.43.png" alt=""><figcaption><p>By <a href="https://www.figma.com/@miquido">Miquido Design</a> and <a href="https://www.figma.com/@filryg">Filip Rygucki</a></p></figcaption></figure>
+
+<figure><img src=".gitbook/assets/Screen Shot 2024-03-08 at 09.08.04.png" alt=""><figcaption><p>By <a href="https://www.figma.com/@uimrhraju">Mrh Raju</a></p></figcaption></figure>
+
+{% embed url="https://www.figma.com/file/YGKPCqznrgWnsFYaXhTb2O/BrainBox-Ai-ChatBot-Mobile-App-Full-100-Free-UI-Kit-Community?type=design&is-community-duplicate=1&fuid=" %}
+By [Debiyaq](https://www.figma.com/@UiDiv)
+{% endembed %}
+
+
+
+
+
+## **Example Voice AI Platforms**
 
 ### Amazon Alexa
 
@@ -39,6 +57,10 @@ Video by Amazon Alexa
 <figure><img src=".gitbook/assets/uk4tras7ky561.jpg" alt=""><figcaption><p>More Features List</p></figcaption></figure>
 
 </div>
+
+### Microsoft Cortana
+
+{% embed url="https://support.microsoft.com/en-au/topic/what-can-you-do-with-cortana-in-windows-f57ef46f-716a-9940-a8fc-09b3433d05ea" %}
 
 ### Walmart Ask Sam
 
