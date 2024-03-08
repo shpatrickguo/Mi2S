@@ -6,19 +6,17 @@ description: Exploring Effective UI/UX Ideas
 
 ## **Design Examples on** [**Figma**](https://www.figma.com/community)
 
-{% embed url="https://www.figma.com/file/31md8clR20FJ6k7qh3NirE/Chatbot_AI-(Community)?type=design&node-id=0-1&mode=design&t=Y64d7CkxRi5W8yaJ-0" %}
-By [Jaxit Chavda](https://www.figma.com/@Jecky)
-{% endembed %}
-
 <figure><img src=".gitbook/assets/Screen Shot 2024-03-08 at 09.01.43.png" alt=""><figcaption><p>By <a href="https://www.figma.com/@miquido">Miquido Design</a> and <a href="https://www.figma.com/@filryg">Filip Rygucki</a></p></figcaption></figure>
 
 <figure><img src=".gitbook/assets/Screen Shot 2024-03-08 at 09.08.04.png" alt=""><figcaption><p>By <a href="https://www.figma.com/@uimrhraju">Mrh Raju</a></p></figcaption></figure>
 
-{% embed url="https://www.figma.com/file/YGKPCqznrgWnsFYaXhTb2O/BrainBox-Ai-ChatBot-Mobile-App-Full-100-Free-UI-Kit-Community?type=design&is-community-duplicate=1&fuid=" %}
+{% embed url="https://www.figma.com/community/file/1316069776447695879/brainbox-ai-chatbot-mobile-app-full-100-free-ui-kit?searchSessionId=lthyv7tu-yi9dopf25yc" %}
 By [Debiyaq](https://www.figma.com/@UiDiv)
 {% endembed %}
 
-
+{% embed url="https://www.figma.com/community/file/1248969555006205609/chatbot-ai?searchSessionId=lthz05to-n98ulal2h6" %}
+By [Jaxit Chavda](https://www.figma.com/@Jecky)
+{% endembed %}
 
 
 
