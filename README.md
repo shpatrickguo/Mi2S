@@ -4,7 +4,41 @@ description: Exploring Effective UI/UX Strategies
 
 # Voice Assistant Interface Design Examples
 
+## **Example Screenshots and Descriptions**
 
+### Amazon Alexa
+
+{% embed url="https://www.youtube.com/watch?v=gLyY6du6dHA" %}
+Video by Amazon Alexa
+{% endembed %}
+
+<div>
+
+<figure><img src=".gitbook/assets/how-to-enable-alexa-skills-2.jpg" alt=""><figcaption><p>Alexa Skills and Interface</p></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/cegf6zxxx7171.webp" alt=""><figcaption><p>Suggested Prompts</p></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/why-is-alexas-smart-home-skills-in-japanese-i-am-also-v0-awqozsc0jdz91.webp" alt=""><figcaption><p>Alexa Skill Store</p></figcaption></figure>
+
+</div>
+
+<div>
+
+<figure><img src=".gitbook/assets/317018-1280.jpg" alt=""><figcaption><p>Music, Weather, Shopping List Display</p></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/skills1.jpg" alt=""><figcaption><p>Home screen - Customizable</p></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/uk4tras7ky561.jpg" alt=""><figcaption><p>More Features List</p></figcaption></figure>
+
+</div>
 
 ### Walmart Ask Sam
 
