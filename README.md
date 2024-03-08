@@ -6,14 +6,6 @@ description: >-
 
 # Technological Development Sequence and Development Schedule
 
-```
-{% raw %}
-{% hint style="info" %}
-This prioritization is based on factors such as potential impact, market demand, feasibility, and strategic alignment with industry trends.
-{% endhint %}
-{% endraw %}
-```
-
 1. 麥當勞等餐飲業的語音訂購服務，可以包成A I PC的系統銷售\
    McDonald's and other food service industry players are bundling their voice ordering services into AI-powered point-of-sale systems for enhanced sales.
    * Addresses a high-demand area in the food service industry
