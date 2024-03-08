@@ -111,3 +111,17 @@ Video by CBS Philadelphia
 <figure><img src=".gitbook/assets/643x0w.jpg" alt=""><figcaption><p>Feature List</p></figcaption></figure>
 
 </div>
+
+### Bank of America - [Eria](https://promotions.bankofamerica.com/digitalbanking/mobilebanking/erica)
+
+<div>
+
+<figure><img src=".gitbook/assets/Image_option1_v2.jpg" alt="" width="563"><figcaption><p>Suggested Infocards</p></figcaption></figure>
+
+ 
+
+<figure><img src=".gitbook/assets/BAML-mobile-app-chatbot.png" alt=""><figcaption><p>Graphs and Diagrams</p></figcaption></figure>
+
+</div>
+
+<figure><img src=".gitbook/assets/Some-of-Ericas-features.webp" alt=""><figcaption><p>Features of Erica</p></figcaption></figure>
