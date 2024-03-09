@@ -86,6 +86,6 @@ Jiang, Albert Q., et al. "Mistral 7B." _arXiv preprint arXiv:2310.06825_ (2023).
 
 {% embed url="https://github.com/h2oai/h2o-llmstudio" %}
 
-<figure><img src=".gitbook/assets/Screen Shot 2024-03-09 at 10.05.49.png" alt=""><figcaption><p>Example of comparing between experient results</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Screen Shot 2024-03-09 at 10.05.49.png" alt=""><figcaption><p>Example of comparing between experiment results</p></figcaption></figure>
 
 <figure><img src=".gitbook/assets/Screen Shot 2024-03-09 at 10.06.59 (1).png" alt=""><figcaption><p>Exporting Model to HuggingFace or Local Download</p></figcaption></figure>

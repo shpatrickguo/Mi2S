@@ -18,7 +18,23 @@ By [Debiyaq](https://www.figma.com/@UiDiv)
 By [Jaxit Chavda](https://www.figma.com/@Jecky)
 {% endembed %}
 
+{% embed url="https://www.behance.net/gallery/190768319/AI-ChatBot-App" %}
+By Alexandra Shleynova
+{% endembed %}
 
+{% embed url="https://www.behance.net/gallery/187051735/AI-Chatbot-Mobile-App-Branding-and-Landing-Page" %}
+By Bato Web Agency
+{% endembed %}
+
+
+
+## Browse Community Designs
+
+Browse here for other App UI Templates
+
+* [https://dribbble.com/](https://dribbble.com/)
+* [https://www.figma.com/community](https://www.figma.com/community)
+* [https://www.freepik.com/](https://www.freepik.com/)
 
 ## **Example Voice AI Platforms**
 
