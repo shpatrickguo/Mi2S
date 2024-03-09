@@ -15,18 +15,15 @@ layout:
 
 # LLM Fine-Tuning
 
-<blockquote>
-曾經拿哪個 LLM Base Model 作 Fine tuning&#x20;
-  
-當初是出於什麼目的要 Fine-tuning? 比如說希望他在哪方面或哪個 Domain 表現更好&#x20;
-
-需要準備哪些資料？&#x20;
-
-相關的程式碼
-
-最後有任何的實驗結果比較有無 Fine-tuning 之類的
-</blockquote>
-
+> 曾經拿哪個 LLM Base Model 作 Fine tuning
+>
+> 當初是出於什麼目的要 Fine-tuning? 比如說希望他在哪方面或哪個 Domain 表現更好
+>
+> 需要準備哪些資料？
+>
+> 相關的程式碼
+>
+> 最後有任何的實驗結果比較有無 Fine-tuning 之類的
 
 ## 1. LLM - Detect AI Generated Text
 
@@ -71,7 +68,7 @@ He, Pengcheng, et al. "Deberta: Decoding-enhanced bert with disentangled attenti
 He, Pengcheng, Jianfeng Gao, and Weizhu Chen. "Debertav3: Improving deberta using electra-style pre-training with gradient-disentangled embedding sharing." _arXiv preprint arXiv:2111.09543_ (2021).
 {% endembed %}
 
-{% @github-files/github-code-block %}
+{% embed url="https://github.com/microsoft/DeBERTa" %}
 
 <figure><img src=".gitbook/assets/1_6PgadenApxx4vQ-YEu2Wcg (4).png" alt=""><figcaption><p>Enhanced mask decoder in DeBERTa. <a href="https://towardsdatascience.com/large-language-models-deberta-decoding-enhanced-bert-with-disentangled-attention-90016668db4b">https://towardsdatascience.com/large-language-models-deberta-decoding-enhanced-bert-with-disentangled-attention-90016668db4b</a></p></figcaption></figure>
 
@@ -87,9 +84,8 @@ Jiang, Albert Q., et al. "Mistral 7B." _arXiv preprint arXiv:2310.06825_ (2023).
 
 ### LLM Fine Tuning Tool - [H20 LLM Studio](https://docs.h2o.ai/h2o-llmstudio/)
 
-{% @github-files/github-code-block %}
+{% embed url="https://github.com/h2oai/h2o-llmstudio" %}
 
 <figure><img src=".gitbook/assets/Screen Shot 2024-03-09 at 10.05.49.png" alt=""><figcaption><p>Example of comparing between experient results</p></figcaption></figure>
 
 <figure><img src=".gitbook/assets/Screen Shot 2024-03-09 at 10.06.59 (1).png" alt=""><figcaption><p>Exporting Model to HuggingFace or Local Download</p></figcaption></figure>
-
