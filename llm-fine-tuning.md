@@ -1,4 +1,5 @@
 ---
+description: Purpose, Data Preparation, Code, and Comparative Results
 layout:
   title:
     visible: true
@@ -32,7 +33,13 @@ layout:
 He, Pengcheng, et al. "Deberta: Decoding-enhanced bert with disentangled attention." _arXiv preprint arXiv:2006.03654_ (2020).
 {% endembed %}
 
+{% embed url="https://arxiv.org/abs/2111.09543" %}
+He, Pengcheng, Jianfeng Gao, and Weizhu Chen. "Debertav3: Improving deberta using electra-style pre-training with gradient-disentangled embedding sharing." _arXiv preprint arXiv:2111.09543_ (2021).
+{% endembed %}
+
 {% @github-files/github-code-block %}
+
+<figure><img src=".gitbook/assets/1_6PgadenApxx4vQ-YEu2Wcg (4).png" alt=""><figcaption><p>Enhanced mask decoder in DeBERTa. <a href="https://towardsdatascience.com/large-language-models-deberta-decoding-enhanced-bert-with-disentangled-attention-90016668db4b">https://towardsdatascience.com/large-language-models-deberta-decoding-enhanced-bert-with-disentangled-attention-90016668db4b</a></p></figcaption></figure>
 
 ### Mistral 7B
 
