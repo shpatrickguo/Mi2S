@@ -82,7 +82,17 @@ Jiang, Albert Q., et al. "Mistral 7B." _arXiv preprint arXiv:2310.06825_ (2023).
 
 {% embed url="https://mistral.ai/news/announcing-mistral-7b/" %}
 
-### LLM Fine Tuning Tool - [H20 LLM Studio](https://docs.h2o.ai/h2o-llmstudio/)
+### LLM Fine Tuning Tools&#x20;
+
+#### [AutoTrain](https://huggingface.co/autotrain)
+
+<figure><img src=".gitbook/assets/Screen Shot 2024-03-09 at 13.17.39.png" alt="" width="375"><figcaption><p>Screenshot of AutoTrain Colab</p></figcaption></figure>
+
+{% embed url="https://github.com/huggingface/autotrain-advanced?tab=readme-ov-file" %}
+
+{% embed url="https://colab.research.google.com/github/huggingface/autotrain-advanced/blob/main/colabs/AutoTrain_LLM.ipynb" %}
+
+#### [H20 LLM Studio](https://docs.h2o.ai/h2o-llmstudio/)
 
 {% embed url="https://github.com/h2oai/h2o-llmstudio" %}
 
