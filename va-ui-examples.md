@@ -4,6 +4,12 @@ description: Exploring Effective UI/UX Ideas
 
 # Voice Assistant Interface Design Examples
 
+| What to keep in mind 👍                                                                                                                                             | Avoid 👎                                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| Decide what kind of information your chatbot will collect from users. This will help you determine what kind of UI elements you’ll need to include in your chatbot. | Too many messages or too much information in the chatbot’s initial greeting. This can overwhelm the user.                          |
+| Think ahead about how users will interact with your chatbot. Will they be typing in questions or commands? Or will they be clicking on buttons or menus?            | Relying on user input messages without clear prompts, buttons, and instructions. It makes chatbots confusing and difficult to use. |
+| Test your chatbot UI with real users before you launch it. This will help you detect bugs or usability issues that you didn’t anticipate.                           | Chatbot conversation flows that are too complex and try to solve too many problems all at once.                                    |
+
 ## **Design Examples on** [**Figma**](https://www.figma.com/community)
 
 <figure><img src=".gitbook/assets/Screen Shot 2024-03-08 at 09.01.43.png" alt=""><figcaption><p>By <a href="https://www.figma.com/@miquido">Miquido Design</a> and <a href="https://www.figma.com/@filryg">Filip Rygucki</a></p></figcaption></figure>
