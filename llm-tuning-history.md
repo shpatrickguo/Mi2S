@@ -15,16 +15,13 @@ layout:
 
 # LLM Fine-Tuning
 
+<blockquote>
 曾經拿哪個 LLM Base Model 作 Fine tuning&#x20;
-
 當初是出於什麼目的要 Fine-tuning? 比如說希望他在哪方面或哪個 Domain 表現更好&#x20;
-
 需要準備哪些資料？&#x20;
-
 相關的程式碼
-
 最後有任何的實驗結果比較有無 Fine-tuning 之類的
-
+</blockquote>
 
 
 ## 1. LLM - Detect AI Generated Text
