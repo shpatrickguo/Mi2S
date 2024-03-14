@@ -1,5 +1,7 @@
 # Lab Project Hub
 
+## Sitemap
+
 1. **Home**
    * Overview of the research lab
    * Highlights of recent projects or achievements
@@ -47,3 +49,15 @@
      * Funding sources and sponsors
      * Collaborations and partnerships
      * Awards and recognition
+
+### Examples
+
+{% embed url="https://www.biomesense.com/" %}
+It's evident that the primary goal is to seek partnerships, highlighted by prominent "Join Us" buttons.
+{% endembed %}
+
+{% embed url="https://mitibmwatsonailab.mit.edu/" %}
+
+{% embed url="https://bair.berkeley.edu/" %}
+
+{% embed url="https://liviamtl.ca/?lang=en-CA" %}
