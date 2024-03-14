@@ -7,3 +7,7 @@
 ## Website sitemaps
 
 * [Lab Project Hub](website-sitemaps/lab-project-hub.md)
+
+***
+
+* [System Design: Voice-Assisted Shopping for a Quick-Service Restaurant](sd-ai-voice-qsr.md)
