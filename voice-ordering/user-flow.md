@@ -4,6 +4,8 @@
 [McDelivery Menu Logger](https://github.com/schmwong/APAC-McDelivery-Menu-Logger?tab=readme-ov-file)
 {% endhint %}
 
+<figure><img src="../.gitbook/assets/Screen Shot 2024-03-16 at 00.18.13 (1).png" alt=""><figcaption></figcaption></figure>
+
 **Step 1:** User Launches the App 📱
 
 * Open McDonald's mobile app
