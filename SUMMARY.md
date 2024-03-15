@@ -8,6 +8,7 @@
 
 * [Lab Project Hub](website-sitemaps/lab-project-hub.md)
 
-***
+## Voice Ordering
 
-* [System Design: Voice-Assisted Shopping for a Quick-Service Restaurant](sd-ai-voice-qsr.md)
+* [User Flow](voice-ordering/user-flow.md)
+* [System Design: Voice-Assisted Shopping for a Quick-Service Restaurant](voice-ordering/system-design-voice-assisted-shopping-for-a-quick-service-restaurant.md)
