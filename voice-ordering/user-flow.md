@@ -1,5 +1,9 @@
 # User Flow
 
+{% hint style="info" %}
+[McDelivery Menu Logger](https://github.com/schmwong/APAC-McDelivery-Menu-Logger?tab=readme-ov-file)
+{% endhint %}
+
 **Step 1:** User Launches the App 📱
 
 * Open McDonald's mobile app
