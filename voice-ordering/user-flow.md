@@ -1,11 +1,5 @@
 # User Flow
 
-{% hint style="info" %}
-[McDelivery Menu Logger](https://github.com/schmwong/APAC-McDelivery-Menu-Logger?tab=readme-ov-file)
-{% endhint %}
-
-<figure><img src="../.gitbook/assets/Screen Shot 2024-03-16 at 00.18.13 (1).png" alt=""><figcaption></figcaption></figure>
-
 **Step 1:** User Launches the App 📱
 
 * Open McDonald's mobile app
@@ -69,4 +63,40 @@
 
 * User receives and enjoys delicious McDonald's meal
 
-This user flow guides the user through the process of ordering a McDonald's meal using the voice assistant feature in the mobile app.
+````mermaid
+```mermaid
+flowchart TD
+    Step1([User Launches the App 📱])
+    Step2[/Voice Activation 🗣️/]
+    Step3[/Menu Exploration 🍔/]
+    Step4[/Item Selection 🥤/]
+    Step5[/Customization and Personalization ✨/]
+    Step6[/Review and Confirm ✔️/]
+    Step7[/Payment and Delivery Options 💳/]
+    Step8[/Delivery Address 🏠/]
+    Step9[/Order Confirmation 📦/]
+    Step10[/Tracking and Updates 🚚/]
+    Step11([Delivery or Pickup 🛍️])
+
+    Step1 --> Step2
+    Step2 --> Step3
+    Step3 --> Step4
+    Step4 --> Step5
+    Step5 --> Step6
+    Step6 --> Step7
+    Step7 --> Step8
+    Step8 --> Step9
+    Step9 --> Step10
+    Step10 --> Step11
+
+```
+````
+
+### Menu Data
+
+<figure><img src="../.gitbook/assets/Screen Shot 2024-03-16 at 00.18.13 (1).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+[McDelivery Menu Logger](https://github.com/schmwong/APAC-McDelivery-Menu-Logger?tab=readme-ov-file)
+{% endhint %}
+
