@@ -67,16 +67,15 @@
 ```mermaid
 flowchart TD
     Step1([User Launches the App 📱])
-    Step2[/Voice Activation 🗣️/]
-    Step3[/Menu Exploration 🍔/]
-    Step4[/Item Selection 🥤/]
-    Step5[/Customization and Personalization ✨/]
-    Step6[/Review and Confirm ✔️/]
-    Step7[/Payment and Delivery Options 💳/]
-    Step8[/Delivery Address 🏠/]
-    Step9[/Order Confirmation 📦/]
-    Step10[/Tracking and Updates 🚚/]
-    Step11([Delivery or Pickup 🛍️])
+    Step2[Voice Activation 🗣️]
+    Step3[Menu Exploration 🍔]
+    Step4{Item Selection 🥤}
+    Step5{Customization✨}
+    Step6{Confirm ✔️}
+    Step7[Payment and Delivery Options 💳]
+    Step8[Delivery Address 🏠]
+    Step9[Tracking and Updates 🚚]
+    Step10([Delivery or Pickup 🛍️])
 
     Step1 --> Step2
     Step2 --> Step3
@@ -87,8 +86,6 @@ flowchart TD
     Step7 --> Step8
     Step8 --> Step9
     Step9 --> Step10
-    Step10 --> Step11
-
 ```
 ````
 
