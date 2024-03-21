@@ -4,9 +4,9 @@ cover: >-
 coverY: 0
 ---
 
-# 小北百貨 VA
+# Showba 小北百貨
 
-## Features
+## Features 应用功能
 
 <figure><img src="../.gitbook/assets/image (1).png" alt="" width="360"><figcaption><p><a data-mention href="../va-ui-examples.md#walmart-ask-sam">#walmart-ask-sam</a></p></figcaption></figure>
 
