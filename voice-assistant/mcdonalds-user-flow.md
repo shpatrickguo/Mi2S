@@ -1,4 +1,4 @@
-# User Flow
+# McDonalds User Flow
 
 **Step 1:** User Launches the App 📱
 
@@ -15,10 +15,11 @@
 * Voice assistant asks, "How can I assist you today?"
 * User requests menu display
 * App shows menu items using voice and visual interfaces
+* Nutrition Facts: [https://www.kaggle.com/datasets/mcdonalds/nutrition-facts](https://www.kaggle.com/datasets/mcdonalds/nutrition-facts)
 
 **Step 4:** Item Selection 🥤
 
-* User orders Big Mac meal
+* User orders Big Mac meal and quantity
 * Voice assistant confirms and asks for customization options
 * User specifies preferences
 
@@ -29,7 +30,7 @@
 
 **Step 6:** Review and Confirm ✔️
 
-* Voice assistant summarizes order
+* Voice assistant summarizes the order, including the quantity.
 * User confirms or makes adjustments
 
 **Step 7:** Payment and Delivery Options 💳
