@@ -1,5 +1,7 @@
 # System Design: Voice-Assisted Shopping for a Quick-Service Restaurant
 
+{% embed url="https://www.soundhound.com/" %}
+
 ### System Overview 系统概述 🛒🎙️
 
 The voice-assisted shopping system for a quick-service restaurant (QSR) aims to streamline the ordering experience for customers using voice commands. This system utilizes artificial intelligence (AI) technology to process orders, customize menu items, and handle payments through natural language processing (NLP) technology integrated with the restaurant's ordering platform. By leveraging AI capabilities, the system directly interprets and manages customer requests, ensuring smooth and efficient transactions.
