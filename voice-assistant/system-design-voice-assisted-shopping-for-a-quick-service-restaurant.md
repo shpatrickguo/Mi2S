@@ -3,6 +3,12 @@
 {% embed url="https://www.soundhound.com/" %}
 
 {% embed url="https://player.vimeo.com/video/771416502" %}
+SoundHound Dynamic Integration
+{% endembed %}
+
+{% embed url="https://www.youtube.com/watch?v=xI68NT8D1m8" %}
+Voice Search and Filtering in E-commerce - Speechly Demo
+{% endembed %}
 
 ### System Overview 系统概述 🛒🎙️
 
