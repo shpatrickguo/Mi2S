@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://www.jbhr.com.tw/0800Backend/Uploads/f2ecffc4-3401-4f1c-bb75-231a88ddf33a/80827009-693d-44e5-ba84-f2a59841dcf2.jpg
+coverY: 0
+---
+
 # 小北百貨 VA
 
 ## Features
