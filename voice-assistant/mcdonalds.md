@@ -1,5 +1,15 @@
 # McDonalds 麦当劳
 
+## Menu Data
+
+<figure><img src="../.gitbook/assets/Screen Shot 2024-03-16 at 00.18.13 (1).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+[McDelivery Menu Logger](https://github.com/schmwong/APAC-McDelivery-Menu-Logger?tab=readme-ov-file) 菜单清单
+
+[Nutrition Information](https://www.kaggle.com/datasets/mcdonalds/nutrition-facts)  营养信息
+{% endhint %}
+
 ## **User Flow**
 
 **Step 1:** User Launches the App 用户启动应用 📱
@@ -98,11 +108,5 @@ flowchart TD
 ```
 ````
 
-## Menu Data
-
-<figure><img src="../.gitbook/assets/Screen Shot 2024-03-16 at 00.18.13 (1).png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="info" %}
-[McDelivery Menu Logger](https://github.com/schmwong/APAC-McDelivery-Menu-Logger?tab=readme-ov-file)
-{% endhint %}
+##
 
