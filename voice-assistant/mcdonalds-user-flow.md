@@ -12,6 +12,8 @@
 
 **Step 3:** Menu Exploration 🍔
 
+<figure><img src="../.gitbook/assets/image (2).png" alt="" width="232"><figcaption></figcaption></figure>
+
 * Voice assistant asks, "How can I assist you today?"
 * User requests menu display
 * App shows menu items using voice and visual interfaces
