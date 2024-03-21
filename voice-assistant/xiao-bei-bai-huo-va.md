@@ -2,6 +2,8 @@
 
 ## Features
 
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="360"><figcaption><p><a data-mention href="../va-ui-examples.md#walmart-ask-sam">#walmart-ask-sam</a></p></figcaption></figure>
+
 #### Product Inquiry 产品查询:
 
 * Customers can ask the voice assistant about product details, availability, and location within the store.
