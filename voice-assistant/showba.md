@@ -73,3 +73,13 @@ coverY: 0
   * _Example_: "Which areas of the store do customers visit the most for home improvement products?"
 * This information can help optimize product placement and improve overall store layout.
   * _Example_: "Where should we place the new furniture display for maximum customer engagement?"
+
+
+
+## Other Checkout Options
+
+<figure><img src="../.gitbook/assets/image (3).png" alt="" width="375"><figcaption><p>Caper Smart Carts</p></figcaption></figure>
+
+1. Smart Grocery Cart that automatically scans items when added [https://www.forbes.com/sites/laurendebter/2021/01/19/kroger-is-testing-a-new-smart-cart-that-lets-shoppers-skip-the-checkout-line/?sh=664565d56339](https://www.forbes.com/sites/laurendebter/2021/01/19/kroger-is-testing-a-new-smart-cart-that-lets-shoppers-skip-the-checkout-line/?sh=664565d56339)
+
+{% embed url="https://www.forbes.com/sites/laurendebter/2022/06/02/coming-to-stores-a-new-type-of-self-checkout-where-no-scanning-is-required/?sh=6183e724424c" %}
