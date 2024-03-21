@@ -43,7 +43,7 @@
 * The assistant can provide information on country of origin, material, and warranty details.
   * _Example_: "Is this dining table made from sustainable materials?"
 
-#### Employee Features:
+### Employee Features:
 
 **Working Hours and Clock 工作时间和打卡:**
 
@@ -52,7 +52,7 @@
 * The voice assistant can remind them of break times and important tasks.
   * _Example_: "Remind me to restock the kitchen gadgets aisle at 3 PM."
 
-#### Employer Features:
+### Employer Features:
 
 **Employee Activity Tracking 员工活动跟踪:**
 
