@@ -27,14 +27,14 @@
 
 **Step 5:** Customization and Personalization ✨
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="232"><figcaption><p>Customization</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="232"><figcaption><p>Customization</p></figcaption></figure>
 
 * Voice assistant suggests add-ons based on user's preferences
 * User customizes meal further if desired
 
 **Step 6:** Review and Confirm ✔️
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="232"><figcaption><p>Checkout Page</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="232"><figcaption><p>Checkout Page</p></figcaption></figure>
 
 * Voice assistant summarizes the order, including the quantity.
 * User confirms or makes adjustments

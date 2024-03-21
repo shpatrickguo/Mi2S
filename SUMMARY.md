@@ -11,5 +11,5 @@
 ## Voice Assistant
 
 * [McDonalds User Flow](voice-assistant/mcdonalds-user-flow.md)
-* [System Design: Voice-Assisted Shopping for a Quick-Service Restaurant](voice-assistant/system-design-voice-assisted-shopping-for-a-quick-service-restaurant.md)
 * [小北百貨 VA](voice-assistant/xiao-bei-bai-huo-va.md)
+* [System Design: Voice-Assisted Shopping for a Quick-Service Restaurant](voice-assistant/system-design-voice-assisted-shopping-for-a-quick-service-restaurant.md)
