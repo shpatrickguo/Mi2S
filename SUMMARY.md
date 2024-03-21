@@ -8,8 +8,8 @@
 
 * [Lab Project Hub](website-sitemaps/lab-project-hub.md)
 
-## Voice Ordering
+## Voice Assistant
 
-* [User Flow](voice-ordering/user-flow.md)
-* [System Design: Voice-Assisted Shopping for a Quick-Service Restaurant](voice-ordering/system-design-voice-assisted-shopping-for-a-quick-service-restaurant.md)
-* [小北百貨 VA](voice-ordering/xiao-bei-bai-huo-va.md)
+* [McDonalds User Flow](voice-assistant/mcdonalds-user-flow.md)
+* [System Design: Voice-Assisted Shopping for a Quick-Service Restaurant](voice-assistant/system-design-voice-assisted-shopping-for-a-quick-service-restaurant.md)
+* [小北百貨 VA](voice-assistant/xiao-bei-bai-huo-va.md)
