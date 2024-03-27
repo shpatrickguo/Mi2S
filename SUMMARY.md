@@ -7,6 +7,7 @@
 ## Website sitemaps
 
 * [Lab Project Hub](website-sitemaps/lab-project-hub.md)
+* [Digitone](website-sitemaps/digitone.md)
 
 ## Voice Assistant
 
