@@ -9,3 +9,12 @@
 3. Periwinkle is great for buttons or accents
 4. Delft Blue works well for headings or call-to-action elements
 5. Space Cadet is suitable for accent elements or borders
+
+
+
+
+
+{% embed url="https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/creating-a-branded-ai-voice-that-conveys-emotions-and-speaks/ba-p/3876336" %}
+By [Qinying Liao](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/175688)
+{% endembed %}
+
