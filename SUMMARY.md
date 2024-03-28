@@ -4,10 +4,10 @@
 * [Voice Assistant Interface Design Examples](va-ui-examples.md)
 * [LLM Fine-Tuning](llm-tuning-history.md)
 
-## Website sitemaps
+## Website Design
 
-* [Lab Project Hub](website-sitemaps/lab-project-hub.md)
-* [Digitone](website-sitemaps/digitone.md)
+* [Lab Project Hub](website-design/lab-project-hub.md)
+* [Digitone](website-design/digitone.md)
 
 ## Voice Assistant
 
