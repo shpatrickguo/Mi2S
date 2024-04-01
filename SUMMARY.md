@@ -17,4 +17,5 @@
 ## DigiTone
 
 * [Theme](digitone/theme.md)
-* [Page](digitone/page.md)
+* [Custom Neural Voice](digitone/custom-neural-voice.md)
+* [Virtual Assistant](digitone/virtual-assistant.md)
