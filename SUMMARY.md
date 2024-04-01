@@ -7,10 +7,14 @@
 ## Website Design
 
 * [Lab Project Hub](website-design/lab-project-hub.md)
-* [Digitone](website-design/digitone.md)
 
 ## Voice Assistant
 
 * [McDonalds 麦当劳](voice-assistant/mcdonalds.md)
 * [Showba 小北百貨](voice-assistant/showba.md)
 * [System Design: Voice-Assisted Shopping QSR](voice-assistant/system-design-voice-assisted-shopping-qsr.md)
+
+## DigiTone
+
+* [Theme](digitone/theme.md)
+* [Page](digitone/page.md)
