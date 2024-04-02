@@ -2,6 +2,8 @@
 
 {% embed url="https://www.egain.com/products/chatbot-virtual-assistant-software/" %}
 
+{% embed url="https://hd.egain.com/corporate/egain-investor-presentation-q2fy2024.pdf" %}
+
 ### Your Virtual Assistant: Personalized Support Whenever You Need It
 
 Imagine having a Virtual Assistant at your disposal – a virtual entity designed to engage with you conversationally, addressing your queries and providing support on your website. This dynamic tool offers personalized assistance, ensuring that help is available whenever you need it.
