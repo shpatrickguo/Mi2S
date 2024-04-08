@@ -54,8 +54,6 @@ Allows users to effortlessly switch between languages within the same text, faci
 * Real-time Text-to-Speech Conversion: Implement real-time text-to-speech conversion capabilities for instant generation of audio from typed or spoken input.
 * Voice Cloning: Integrate voice cloning technology to replicate the voice of a specific individual for applications such as personal assistants or virtual avatars.
 
-{% embed url="https://elevenlabs.io/" %}
-
 ## Voice Cloning
 
 {% embed url="https://elevenlabs.io/voice-cloning" %}
