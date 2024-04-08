@@ -41,7 +41,7 @@ Functioning as a knowledgeable guide, the VA assists customers in navigating the
 
 {% embed url="https://suite.seasalt.ai/tts" %}
 
-Craft lifelike speech generated from text with precise customization options.
+Craft lifelike speech generated from text with precise customization options. Our voice generator accurately reproduces human intonation and nuances, adapting its delivery seamlessly to suit the context with unparalleled precision.
 
 Allows users to effortlessly switch between languages within the same text, facilitating clear and effective communication regardless of linguistic preferences.&#x20;
 
@@ -53,3 +53,5 @@ Allows users to effortlessly switch between languages within the same text, faci
 * Custom Voice Creation: Offer tools or services for creating custom voices tailored to specific brands, characters, or personas, providing unique and personalized audio experiences.
 * Real-time Text-to-Speech Conversion: Implement real-time text-to-speech conversion capabilities for instant generation of audio from typed or spoken input.
 * Voice Cloning: Integrate voice cloning technology to replicate the voice of a specific individual for applications such as personal assistants or virtual avatars.
+
+{% embed url="https://elevenlabs.io/" %}
