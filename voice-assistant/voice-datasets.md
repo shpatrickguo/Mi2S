@@ -4,37 +4,167 @@
 
 {% embed url="https://www.openslr.org/111/" %}
 
+The AISHELL-4 is a sizable real-recorded Mandarin speech dataset collected by 8-channel circular microphone array for speech processing in conference scenarios. The dataset consists of 211 recorded meeting sessions, each containing 4 to 8 speakers, with a total length of 120 hours. This dataset aims to bridge the advanced research on multi-speaker processing and the practical application scenario in three aspects. With real recorded meetings, AISHELL-4 provides realistic acoustics and rich natural speech characteristics in conversation such as short pause, speech overlap, quick speaker turn, noise, etc. Meanwhile, the accurate transcription and speaker voice activity are provided for each meeting in AISHELL-4. This allows the researchers to explore different aspects in meeting processing, ranging from individual tasks such as speech front-end processing, speech recognition and speaker diarization, to multi-modality modeling and joint optimization of relevant tasks.
+
+AISHELL-4 是一个大规模的真实录制普通话语料库，由8通道圆形麦克风阵列收集，用于会议场景的语音处理。该数据集由211场会议录音组成，每场会议包含4到8位说话者，总长度为120小时。该数据集旨在通过三个方面将多说话人处理的先进研究与实际应用场景相结合。通过真实录制的会议，AISHELL-4提供了现实的声学环境和丰富的自然语音特征，如短暂停顿、语音重叠、快速说话者切换、噪音等。同时，AISHELL-4为每场会议提供了准确的转录和说话者语音活动记录。这使研究人员能够探索会议处理中的不同方面，从语音前端处理、语音识别和说话者分离等单项任务，到多模态建模和相关任务的联合优化。
+
+```
+@inproceedings{AISHELL-4_2021,
+title={AISHELL-4: An Open Source Dataset for Speech Enhancement, Separation, Recognition and Speaker Diarization in Conference Scenario},
+author={Yihui Fu, Luyao Cheng, Shubo Lv, Yukai Jv, Yuxiang Kong, Zhuo Chen, Yanxin Hu, Lei Xie, Jian Wu, Hui Bu, Xin Xu, Jun Du, Jingdong Chen},
+booktitle={Interspeech},
+url={https://arxiv.org/abs/2104.03603},
+year={2021}
+}
+```
+
+\
+
+
 ## AISHELL-3
 
 {% embed url="https://www.openslr.org/93/" %}
+
+AISHELL-3 is a large-scale and high-fidelity multi-speaker Mandarin speech corpus published by Beijing Shell Shell Technology Co.,Ltd. It can be used to train multi-speaker Text-to-Speech (TTS) systems.The corpus contains roughly 85 hours of emotion-neutral recordings spoken by 218 native Chinese mandarin speakers and total 88035 utterances. Their auxiliary attributes such as gender, age group and native accents are explicitly marked and provided in the corpus. Accordingly, transcripts in Chinese character-level and pinyin-level are provided along with the recordings. The word & tone transcription accuracy rate is above 98%, through professional speech annotation and strict quality inspection for tone and prosody.
+
+AISHELL-3 是由北京壳壳科技有限公司发布的大规模高保真多说话人普通话语料库。它可用于训练多说话人文本到语音（TTS）系统。该语料库包含约85小时的情感中性录音，由218名普通话母语者录制，共计88035个语音段。语料库中明确标注并提供了辅助属性，如性别、年龄组和本地方言。此外，录音还附带了汉字级和拼音级的转录文本。通过专业的语音标注和对音调及韵律的严格质量检查，词汇和音调转录准确率超过98%。
+
+```
+@inproceedings{AISHELL-3_2020,
+  title={AISHELL-3: A Multi-speaker Mandarin TTS Corpus and the Baselines},
+  author={Yao Shi, Hui Bu, Xin Xu, Shaoji Zhang, Ming Li},
+  year={2015},
+  url={https://arxiv.org/abs/2010.11567}
+}
+```
 
 ## AISHELL-1&#x20;
 
 {% embed url="https://www.openslr.org/33/" %}
 
+Aishell is an open-source Chinese Mandarin speech corpus published by Beijing Shell Shell Technology Co.,Ltd.
+
+400 people from different accent areas in China are invited to participate in the recording, which is conducted in a quiet indoor environment using high fidelity microphone and downsampled to 16kHz. The manual transcription accuracy is above 95%, through professional speech annotation and strict quality inspection. The data is free for academic use. We hope to provide moderate amount of data for new researchers in the field of speech recognition.
+
+Aishell 是由北京壳壳科技有限公司发布的开源普通话语料库。语料库录制邀请了来自中国不同口音地区的400人，在安静的室内环境中使用高保真麦克风进行录音，并将采样率降至16kHz。通过专业的语音标注和严格的质量检验，人工转录准确率超过95%。这些数据可免费用于学术研究。我们希望为语音识别领域的新研究人员提供适量的数据支持。
+
+```
+@inproceedings{aishell_2017,
+  title={AIShell-1: An Open-Source Mandarin Speech Corpus and A Speech Recognition Baseline},
+  author={Hui Bu, Jiayu Du, Xingyu Na, Bengu Wu, Hao Zheng},
+  booktitle={Oriental COCOSDA 2017},
+  pages={Submitted},
+  year={2017}
+}
+```
+
 ## Free ST Chinese Mandarin Corpus
 
 {% embed url="https://www.openslr.org/38/" %}
+
+This corpus were recorded in silence in-door environment using cellphone. It has 855 speakers. Each speaker has 120 utterances. All utterances were carefully transcribed and checked by human. Transcription accuracy is guaranteed. If there is any problem, we agree to correct them for you. The corpus contains:
+
+* audio files
+* transcriptions
+* metadata
+
+该语料库是在安静的室内环境中使用手机录制的。共有855名说话者，每位说话者有120段语音。所有语音均由人工仔细转录和检查，确保转录准确率。如有任何问题，我们同意为您进行更正。该语料库包含以下内容：
+
+* 音频文件
+* 转录文本
+* 元数据
+
+> ```
+> ST-CMDS-20170001_1, Free ST Chinese Mandarin Corpus
+> ```
 
 ## Primewords Chinese Corpus Set 1
 
 {% embed url="https://www.openslr.org/47/" %}
 
-## aidatatang\_200zh
+This free Chinese Mandarin speech corpus set is released by Shanghai Primewords Information Technology Co., Ltd.
 
-{% embed url="https://www.openslr.org/62/" %}
+The corpus is recorded by smart mobile phones from 296 native Chinese speakers. The transcription accuracy is larger than 98%, at the confidence level of 95%. It is free for academic use.
+
+\
+这套免费的普通话语料库由上海普华信息技术有限公司发布。 该语料库由296名中国本地说话者使用智能手机录制，转录准确率在95%的置信水平上超过98%。它可免费用于学术用途。
+
+```
+@misc{primewords_201801,
+title={Primewords Chinese Corpus Set 1},
+author={Primewords Information Technology Co., Ltd.},
+year={2018},
+note={\url{https://www.primewords.cn}}
+}
+```
 
 ## MAGICDATA Mandarin Chinese Read Speech Corpus
 
 {% embed url="https://www.openslr.org/68/" %}
 
+MAGICDATA Mandarin Chinese Read Speech Corpus was developed by MAGIC DATA Technology Co., Ltd. and freely published for non-commercial use. The contents and the corresponding descriptions of the corpus include:
+
+* The corpus contains **755 hours** of speech data, which is mostly mobile recorded data.
+* **1080 speakers** from different accent areas in China are invited to participate in the recording.
+* The sentence transcription accuracy is higher than 98%.
+* Recordings are conducted in a quiet indoor environment.
+* The database is divided into training set, validation set, and testing set in a ratio of 51: 1: 2.
+* Detail information such as speech data coding and speaker information is preserved in the metadata file.
+* The domain of recording texts is diversified, including interactive Q\&A, music search, SNS messages, home command and control, etc.
+* Segmented transcripts are also provided.
+
+\
+MAGICDATA普通话朗读语料库由MAGIC DATA Technology Co., Ltd.开发，并免费公开供非商业使用。 该语料库的内容及其对应描述如下：
+
+* 语料库包含755小时的语音数据，主要为移动录制数据。
+* 来自中国不同口音地区的1080位说话者参与了录制。
+* 句子转录准确率超过98%。
+* 录音在安静的室内环境中进行。
+* 数据库按51:1:2的比例分为训练集、验证集和测试集。
+* 语音数据编码和说话者信息等详细信息保存在元数据文件中。
+* 录音文本的领域多样化，包括互动问答、音乐搜索、社交网络消息、家庭指令控制等。
+* 提供分段转录文本。
+
+> Magic Data Technology Co., Ltd., "http://www.imagicdatatech.com/index.php/home/dataopensource/data\_info/id/101", 05/2019
+
 ## AliMeeting
 
 {% embed url="https://www.openslr.org/119/" %}
 
+The AliMeeting Mandarin corpus, originally designed for ICASSP 2022 Multi-channel Multi-party Meeting Transcription Challenge (M2MeT), is recorded from real meetings, including far-field speech collected by an 8-channel microphone array as well as near-field speech collected by each participants' headset microphone. The dataset contains 118.75 hours of speech data in total, divided into 104.75 hours for training (Train), 4 hours for evaluation (Eval) and 10 hours as test set (Test), according to M2MeT challenge arrangement. Specifically, the Train, Eval and Test sets contain 212, 8 and 20 meeting sessions respectively, and each session consists of a 15 to 30-minute discussion by 2-4 participants. AliMeeting covers a variety of aspects in real-world meetings, including diverse meeting rooms, various number of meeting participants and different speaker overlap ratios. High-quality transcriptions are provided as well. The dataset can be used for tasks in meeting rich transcriptions, including speaker diarization and multi-speaker automatic speech recognition.
+
+AliMeeting普通话语料库最初为ICASSP 2022多通道多方会议转录挑战赛 (M2MeT) 设计，记录自真实会议，包括通过8通道麦克风阵列收集的远场语音以及每位参与者的耳机麦克风收集的近场语音。该数据集总共包含118.75小时的语音数据，根据M2MeT挑战赛的安排，分为104.75小时的训练集（Train）、4小时的评估集（Eval）和10小时的测试集（Test）。具体来说，训练集、评估集和测试集分别包含212、8和20个会议会话，每个会话由2至4名参与者进行15至30分钟的讨论。AliMeeting涵盖了真实会议的各种方面，包括不同的会议室、不同数量的会议参与者和不同的说话者重叠比例。该数据集还提供高质量的转录本，可用于会议丰富转录任务，包括说话者分离和多说话者自动语音识别。
+
+```
+@inproceedings{Yu2022M2MeT,
+  title={M2{M}e{T}: The {ICASSP} 2022 Multi-Channel Multi-Party Meeting Transcription Challenge},
+  author={Yu, Fan and Zhang, Shiliang and Fu, Yihui and Xie, Lei and Zheng, Siqi and Du, Zhihao and Huang, Weilong and Guo, Pengcheng and Yan, Zhijie and Ma, Bin and Xu, Xin and Bu, Hui},
+  booktitle={Proc. ICASSP},
+  year={2022},
+  organization={IEEE}
+}
+```
+
 ## HI-MIA-CW
 
 {% embed url="https://www.openslr.org/120/" %}
+
+The HI-MIA-CW is a supplemental database to the HI-MIA wakeup database, and used the same setup of HI-MIA database to further record 16434 audios.
+
+The specific text of the audios is the HI-MIA confusion words in Chinese, which are the negative samples for wake-up words "hi, Mia" (ni hao mi ya). The text details can be found in the paper and the transcription file in resources. Each audio sample was recorded in real home environment using high fidelity microphone ( 48kHz,16-bit ). Then we re-sampled to 16kHz to build the database. It contains 35 speakers. There is no overlap between these 35 speakers and the speakers who are in the previous HI-MIA database. This dataset aims to promote the advanced research on wakeup words detection. It serves as negative samples for the wakeup words detection system. It helps researchers test the performance when encountering the confusing words.
+
+HI-MIA-CW 是 HI-MIA 唤醒数据库的补充数据库，我们使用相同的 HI-MIA 数据库设置进一步录制了16434段音频。这些音频的具体文本是中文的 HI-MIA 混淆词，作为唤醒词“hi, Mia”（你好米娅）的负样本。文本详情可以在论文和资源中的转录文件中找到。每个音频样本都是在真实家庭环境中使用高保真麦克风（48kHz，16位）录制的。然后我们重新采样到16kHz来构建数据库。该数据库包含35位说话者，这35位说话者与之前 HI-MIA 数据库中的说话者没有重叠。该数据集旨在促进唤醒词检测的先进研究，作为唤醒词检测系统的负样本，帮助研究人员测试在遇到混淆词时的性能表现。
+
+```
+@misc{HI-MIA-CW,
+      title={Generating Adversarial Samples For Training Wake-up Word Detection Systems Against Confusing Words}, 
+      author={Haoxu Wang and Yan Jia and Zeqing Zhao and Xuyang Wang and Junjie Wang and Ming Li},
+      year={2022},
+      eprint={2201.00167},
+      archivePrefix={https://arxiv.org/abs/2201.00167},
+      primaryClass={cs.SD}
+}
+```
 
 ## WenetSpeech
 
