@@ -13,6 +13,7 @@
 * [McDonalds 麦当劳](voice-assistant/mcdonalds.md)
 * [Showba 小北百貨](voice-assistant/showba.md)
 * [System Design: Voice-Assisted Shopping QSR](voice-assistant/system-design-voice-assisted-shopping-qsr.md)
+* [Voice Datasets](voice-assistant/voice-datasets.md)
 
 ## DigiTone
 
