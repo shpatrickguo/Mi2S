@@ -281,3 +281,83 @@ title = {LATIC: A Non-native Pre-labelled Mandarin Chinese Validation Corpus for
 year = {2021} 
 }
 ```
+
+## THCHS-30
+
+{% embed url="https://www.openslr.org/18/" %}
+
+THCHS30 is an open Chinese speech database published by Center for Speech and Language Technology (CSLT) at Tsinghua University. The original recording was conducted in 2002 by Dong Wang, supervised by Prof. Xiaoyan Zhu, at the Key State Lab of Intelligence and System, Department of Computer Science, Tsinghua University, and the original name was 'TCMSD', standing for 'Tsinghua Continuous Mandarin Speech Database'.
+
+THCHS30是由清华大学语音与语言技术中心（CSLT）发布的开放式中文语音数据库。最初的录音是由清华大学计算机科学与技术系智能与系统国家重点实验室的朱晓燕教授监督，由王东进行的，录制于2002年，原名为“TCMSD”，代表“清华连续普通话语音数据库”。
+
+```
+@misc{THCHS30_2015,
+  title={THCHS-30 : A Free Chinese Speech Corpus},
+  author={Dong Wang, Xuewei Zhang, Zhiyong Zhang},
+  year={2015},
+  url={http://arxiv.org/abs/1512.01882}
+}
+```
+
+## CN-Celeb
+
+{% embed url="https://www.openslr.org/82/" %}
+
+This is a large-scale speaker recognition dataset collected 'in the wild'. The dataset consists of two subsets, CN-Celeb1 and CN-Celeb2. All the audio files are coded as single channel and sampled at 16kHz with 16-bit precision. For CN-Celeb1, it contains more than 130,000 utterances from 1,000 Chinese celebrities, and covers 11 different genres in real world. For CN-Celeb2, it contains more than 520,000 utterances from 2,000 Chinese celebrities, and covers 11 different genres in real world. The data collection process was organized by the Center for Speech and Language Technologies, Tsinghua University. It was also funded by the National Natural Science Foundation of China No. 61633013, and the Postdoctoral Science Foundation of China No. 2018M640133
+
+这是一个在野外收集的大规模说话者识别数据集。该数据集包含两个子集，CN-Celeb1和CN-Celeb2。所有音频文件均以单通道编码，并以16kHz的采样率和16位精度进行采样。对于CN-Celeb1，它包含来自1,000位中国名人的超过130,000个语音片段，并覆盖了现实世界中的11种不同类型。对于CN-Celeb2，它包含来自2,000位中国名人的超过520,000个语音片段，并覆盖了现实世界中的11种不同类型。数据收集过程由清华大学语音与语言技术中心组织。该项目还得到了中国国家自然科学基金项目No. 61633013和中国博士后科学基金项目No. 2018M640133的资助。
+
+```
+@inproceedings{fan2020cn,
+  title={CN-CELEB: a challenging Chinese speaker recognition dataset},
+  author={Fan, Yue and Kang, JW and Li, LT and Li, KC and Chen, HL and Cheng, ST and Zhang, PY and Zhou, ZY and Cai, YQ and Wang, Dong},
+  booktitle={ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={7604--7608},
+  year={2020},
+  organization={IEEE}
+}
+
+@misc{li2020cn,
+  title={CN-Celeb: multi-genre speaker recognition},
+  author={Lantian Li and Ruiqi Liu and Jiawen Kang and Yue Fan and Hao Cui and Yunqi Cai and Ravichander Vipperla and Thomas Fang Zheng and Dong Wang},
+  year={2020},
+  eprint={2012.12468},
+  archivePrefix={arXiv},
+  primaryClass={eess.AS}
+ }
+```
+
+## MobvoiHotwords
+
+{% embed url="https://www.openslr.org/87/" %}
+
+The MobvoiHotwords is a corpus of wake-up words collected from a commercial smart speaker of Mobvoi. It consists of keyword and non-keyword utterances.
+
+For keyword data, keyword utterances contain either 'Hi xiaowen' or 'Nihao Wenwen' are collected. For each keyword, there are about 36k utterances. All keyword data is collected from 788 subjects, ages 3-65, with different distances from the smart speaker (1, 3 and 5 meters). Different noises (typical home environment noises like music and TV) with varying sound pressure levels are played in the background during the collection.
+
+\
+MobvoiHotwords是由Mobvoi商用智能音箱收集的唤醒词语料库，包括关键词和非关键词语音片段。
+
+关键词数据中，收集了包含“嗨小文”或“你好文文”的唤醒词语音片段。每个关键词约有36,000个语音片段。所有关键词数据均来自788名年龄在3至65岁之间的被试者，他们与智能音箱的距离不同（1、3和5米）。在收集过程中，背景中播放了不同噪声（如音乐和电视等典型家庭环境噪声），噪声的声压级也不同。
+
+```
+@article{DBLP:journals/spl/HouSOHX19,
+  author    = {Jingyong Hou and
+               Yangyang Shi and
+               Mari Ostendorf and
+               Mei{-}Yuh Hwang and
+               Lei Xie},
+  title     = {Region Proposal Network Based Small-Footprint Keyword Spotting},
+  journal   = {{IEEE} Signal Process. Lett.},
+  volume    = {26},
+  number    = {10},
+  pages     = {1471--1475},
+  year      = {2019},
+  url       = {https://doi.org/10.1109/LSP.2019.2936282},
+  doi       = {10.1109/LSP.2019.2936282}
+}
+```
+
+\
+
+
