@@ -31,6 +31,10 @@ Represent entities and relations in the knowledge graph as dense vector embeddin
 
 {% embed url="https://arxiv.org/abs/2309.12501" %}
 
+* Tensor Factorization Models (TuckER, m-CP)&#x20;
+* Hyperbolic Embeddings (MuRP, RotatE)
+* Geometric Embeddings (RefE, BoxE)
+
 ### Knowledge Graph Augmentation
 
 Augment the language model’s training data with knowledge graph triples, effectively teaching the model to better represent and reason over structured knowledge.\
@@ -52,8 +56,40 @@ Develop language generation models that can directly generate text conditioned o
 
 &#x20;Train language models on a combination of traditional language tasks (e.g., text generation, question answering) and knowledge graph tasks (e.g., link prediction, path ranking), enabling them to develop both language understanding and structured knowledge capabilities.
 
+## Knowledge Graph Reasoning Techniques <a href="#id-948d" id="id-948d"></a>
+
+### Path Ranking and Reasoning
+
+Train language models to reason over multi-hop knowledge graph paths, enabling them to answer complex queries by traversing and combining multiple facts.
+
+### Symbolic Reasoning
+
+Incorporate symbolic reasoning capabilities into language models, allowing them to perform logical operations and inference over structured knowledge representations.
+
+### Neuro-Symbolic Reasoning
+
+Develop hybrid neuro-symbolic approaches that combine the strengths of neural networks (pattern recognition, generalization) and symbolic reasoning (interpretability, logical consistency).
+
+### Knowledge Graph Attention
+
+Develop attention mechanisms that can effectively attend to relevant knowledge graph entities and relations during language model inference, enabling more focused and contextualized knowledge utilization.
+
+### Knowledge Graph Constraints
+
+Enforce knowledge graph constraints (e.g., type constraints, cardinality constraints) during language model training or inference to ensure generated outputs respect the underlying knowledge graph structure and semantics.
+
+### Knowledge Graph Refinement
+
+Develop techniques to refine and extend knowledge graphs based on language model outputs, enabling a symbiotic relationship where the knowledge graph enhances the language model, and the language model, in turn, helps refine and expand the knowledge graph.
+
+#### Automatic KG
+
 {% embed url="https://medium.com/@researchgraph/enhancing-language-models-the-role-of-knowledge-graph-augmentation-in-overcoming-llm-challenges-c232b5e9328f" %}
 Unveiling Strategies to Enhance LLMs through Knowledge Graphs
 {% endembed %}
 
 <figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
+
+
+{% embed url="https://www.youtube.com/watch?v=CEaDSOh_AoM" %}
