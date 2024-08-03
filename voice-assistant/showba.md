@@ -8,7 +8,7 @@ coverY: 0
 
 ## Features 应用功能
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="360"><figcaption><p><a data-mention href="../va-ui-examples.md#walmart-ask-sam">#walmart-ask-sam</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="360"><figcaption><p><a data-mention href="../va-ui-examples.md#walmart-ask-sam">#walmart-ask-sam</a></p></figcaption></figure>
 
 #### Product Inquiry 产品查询:
 
@@ -78,7 +78,7 @@ coverY: 0
 
 ## Other Checkout Options
 
-<figure><img src="../.gitbook/assets/image (3).png" alt="" width="375"><figcaption><p>Caper Smart Carts</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt="" width="375"><figcaption><p>Caper Smart Carts</p></figcaption></figure>
 
 1. Smart Grocery Cart that automatically scans items when added [https://www.forbes.com/sites/laurendebter/2021/01/19/kroger-is-testing-a-new-smart-cart-that-lets-shoppers-skip-the-checkout-line/?sh=664565d56339](https://www.forbes.com/sites/laurendebter/2021/01/19/kroger-is-testing-a-new-smart-cart-that-lets-shoppers-skip-the-checkout-line/?sh=664565d56339)
 

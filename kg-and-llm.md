@@ -14,6 +14,8 @@ layout:
 
 # KG + LLM
 
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 {% embed url="https://medium.com/@bijit211987/enhancing-llms-inference-with-knowledge-graphs-7140b3c3d683" %}
 
 ## Knowledge Graph Integration Strategies
@@ -56,6 +58,13 @@ Develop language generation models that can directly generate text conditioned o
 
 &#x20;Train language models on a combination of traditional language tasks (e.g., text generation, question answering) and knowledge graph tasks (e.g., link prediction, path ranking), enabling them to develop both language understanding and structured knowledge capabilities.
 
+#### **Retrieval-Augmented Generation (RAG) with KG**
+
+* **Vector-based retrieval:** This method of retrieval requires that you vectorize your KG and store it in a vector store. If you then vectorize your natural language prompt, you can find vectors in the vector store that are most similar to your prompt. Since these vectors correspond to entities in your graph, you can return the most ‘relevant’ entities in the graph given a natural language prompt. This is the exact same process described above under the tagging capability — we are essentially ‘tagging’ a prompt with relevant tags from our KG.
+* **Prompt-to-query retrieval:** Alternatively, you could use an LLM to generate a SPARQL or Cypher query and use that query to get the most relevant data from the graph
+
+{% embed url="https://towardsdatascience.com/how-to-implement-knowledge-graphs-and-large-language-models-llms-together-at-the-enterprise-level-cf2835475c47" %}
+
 ## Knowledge Graph Reasoning Techniques <a href="#id-948d" id="id-948d"></a>
 
 ### Path Ranking and Reasoning
@@ -93,3 +102,12 @@ Unveiling Strategies to Enhance LLMs through Knowledge Graphs
 
 
 {% embed url="https://www.youtube.com/watch?v=CEaDSOh_AoM" %}
+
+
+
+### Example - Stardog
+
+{% embed url="https://www.stardog.com/blog/how-ai-uses-stardog/" %}
+
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+

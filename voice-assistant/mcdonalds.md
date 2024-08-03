@@ -24,7 +24,7 @@
 
 **Step 3:** Menu Exploration 菜单浏览 🍔
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="232"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt="" width="232"><figcaption></figcaption></figure>
 
 * Voice assistant asks, "How can I assist you today?"
 * User requests menu display
@@ -39,14 +39,14 @@
 
 **Step 5:** Customization and Personalization 定制和个性化 ✨
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="232"><figcaption><p>Customization</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="232"><figcaption><p>Customization</p></figcaption></figure>
 
 * Voice assistant suggests add-ons based on user's preferences
 * User customizes meal further if desired
 
 **Step 6:** Review and Confirm 审查和确认 ✔️
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="232"><figcaption><p>Checkout Page</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="232"><figcaption><p>Checkout Page</p></figcaption></figure>
 
 * Voice assistant summarizes the order, including the quantity.
 * User confirms or makes adjustments
