@@ -111,3 +111,10 @@ Unveiling Strategies to Enhance LLMs through Knowledge Graphs
 
 <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
+<mark style="background-color:orange;">Purpose is to control hallucinations</mark>
+
+A fusion of EKG and LLM control hallucinations in three ways:
+
+1. **Post-generation Verification**: After text is generated, a knowledge graph is used to verify the information in the text, potentially identifying hallucinations.
+2. **Direct Querying**: In the process of text generation, the model may query a knowledge graph for specific information to use in the generation, which could help prevent hallucinations by providing the model with accurate information directly.
+3. **Training Enhancements**: A knowledge graph could be used during the training of the RAG model to teach it to avoid certain types of hallucinations. This would involve using the knowledge graph as a source of “ground truth” during training.
